@@ -1,0 +1,7 @@
+{
+  "name": "lek13_2023",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
